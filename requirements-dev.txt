@@ -49,7 +49,7 @@ sqlparse==0.4.1
 stevedore==3.3.0
 text-unidecode==1.3
 toml==0.10.2
-urllib3==1.26.3
+urllib3==1.26.5
 werkzeug==1.0.1
 whistle==1.0.1
 yapf==0.30.0
