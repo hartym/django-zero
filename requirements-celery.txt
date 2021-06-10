@@ -11,7 +11,7 @@ click==7.1.2
 django-celery-beat==2.2.0
 django-celery-results==2.0.1
 django-timezone-field==4.1.1
-django==3.1.7
+django==3.1.12
 kombu==5.0.2
 prompt-toolkit==3.0.16
 python-crontab==2.5.1
